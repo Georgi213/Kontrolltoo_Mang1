@@ -27,15 +27,7 @@ namespace Kontrolltoo_Mang
             }
             return arv_sum;
         }
-        //public int punktideArv_(List <Ese> list)
-        //{
-            
-        //    foreach (Ese item in list)
-        //    {
-        //        arv_sum_ += item.punktideArv();
-        //    }
-        //    return arv_sum_;
-        //}
+        
 
 
 
